@@ -1,7 +1,7 @@
 {
   "name": "My Token",
   "symbol": "WSK",
-  "uri": "https://example.com/token-metadata.json",
+  "uri": "https://raw.githubusercontent.com/kevwis/solana/refs/heads/main/metadata.json",
   "description": "Un token unique sur Solana.",
   "image": "https://example.com/logo.png",
   "decimals": 6
