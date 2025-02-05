@@ -1,8 +1,12 @@
 {
-  "name": "My Token",
-  "symbol": "WSK",
-  "uri": "https://raw.githubusercontent.com/kevwis/solana/refs/heads/main/metadata.json",
-  "description": "Un token unique sur Solana.",
-  "image": "https://example.com/logo.png",
-  "decimals": 6
-}
+    "name": "WSK Coin",
+    "symbol": "WSK",
+    "description": "Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Compressed Coil"
+      }
+    ]
+  }
